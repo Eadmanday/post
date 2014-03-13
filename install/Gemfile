@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+gem 'turbolinks'
+# Specify your gem's dependencies in install.gemspec
+gemspec
